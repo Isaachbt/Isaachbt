@@ -4,7 +4,9 @@
 
 🎮APRENDENDO A DESENVOLVER GAMES UNITY + C#
 
-☕APRENDENDO JAVA + ANDROID STUDIO 
+☕APRENDENDO JAVA + ANDROID STUDIO
+
+#
  
  
  <div align="center">
@@ -12,6 +14,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Isaachbt&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
 
+ #
+ 
 <div style="display: inline_block">
  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
  <i class="devicon-java-plain-wordmark"></i>
@@ -22,7 +26,7 @@
  <img align="center" alt="Isaac-c#" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />        
  </div>
  
- ##
+ #
  
  <div>
   <a href = "mailto:isaac.silva1478@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
