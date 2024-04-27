@@ -2,7 +2,7 @@
 
 💻 IN THE PROCESS OF SPECIALIZATION IN JAVA
 
-☕SPRING BOOT AND ANDROID DEVELOP
+[ Java, c#, Spring boot, Android, MySql, Firebase]
 
 #
  
