@@ -46,10 +46,22 @@
   </a>
 </p>
 
+#
+
 <div align="center">
- <a href="mailto:isaac.silva1478@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+
+  <a href="mailto:isaac.silva1478@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://www.linkedin.com/in/isaacldsilva" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a> 
- </div>
+  <a href="https://www.linkedin.com/in/isaacldsilva" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://isaachbt.github.io/meu-portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfólio-Visitar-30A3DC?style=for-the-badge&logo=github&logoColor=white" alt="Portfólio" />
+  </a>
+
+</div>
+
+
+
           
