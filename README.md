@@ -6,7 +6,7 @@ I am a **Java Backend Developer** focused on **Spring Boot**, **REST APIs**, **w
 
 ## 🧠 About me
 
-- 3 years of experience with personal projects and courses
+- 3+ years building backend applications and studying software architecture.
 - Passionate about **technology**, **psychology**, **philosophy**, **astronomy**, and **neuroscience**
 - Seeking clear opportunities to grow as a **Java Backend Developer**
 
