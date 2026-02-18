@@ -63,5 +63,15 @@
 </div>
 
 
+<h3 align="center"> 🖥️ Featured projects </h3>
+
+#
+
+<h2>[Minhas finanças]</h2> 📱 Application aimed at helping users organize accounts in one place, offline and online mode
+
+* Java Android nativo
+  
+* Firebase(NoSQL) and MySqlLite(offline)
+
 
           
