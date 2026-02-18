@@ -1,18 +1,5 @@
- <h3 align="center">👋 HI, I AM ISAAC, PASSIONATE ABOUT TECHNOLOGY!</h3>
-<h4 align="center">💻 IN THE PROCESS OF SPECIALIZATION IN JAVA</h4>
-
-
-#
-
-
- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Isaachbt&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&include_all_commits=true&count_private=true" />
-</p>
-
-
-
-#
-
+ <h3 align="center">👋 Hello, I am Isaac — Java Backend Developer 👨‍💻</h3>
+<h2 align="center"> Tecnologias:</h2>
 <div align="center" style="display: inline_block">
  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
  <i class="devicon-java-plain-wordmark"></i>
@@ -29,24 +16,21 @@
  <img align="center" alt="Isaac-PostgreSQL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
  </div>
 
-#
+ <h2 align="center"> Projetos em destaque</h2>
+ 
+ **[Gerenciar Biblioteca Spring]** — API de biblioteca com Spring Boot
+ 
+ 📌 Java, Spring Boot, JPA, MySQL — https://github.com/Isaachbt/Gerenciar-biblioteca-spring
 
-<p align="center">
-  <a href="https://github.com/Isaachbt/Gerenciar-biblioteca-spring">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Isaachbt&repo=Gerenciar-biblioteca-spring&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" />
-  </a>
-  <a href="https://github.com/Isaachbt/Task-Manager-API">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Isaachbt&repo=Task-Manager-API&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" />
-  </a>
-  <a href="https://github.com/Isaachbt/Anotacoes-oficial">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Isaachbt&repo=Anotacoes-oficial&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" />
-  </a>
-  <a href="https://github.com/Isaachbt/Lanche">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Isaachbt&repo=Lanche&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" />
-  </a>
-</p>
+ **[Minhas finanças]** — App de gerenciamento de despesas
+ 
+ 📌 Java, Mobile, Firebase auth, Realtime database, MySqLite - (Em breve na play store)
 
-#
+ **[Anotações]** — App para anotações
+ 
+ 📌 Java, Mobile, Firebase auth, Realtime database, MySqLite - https://github.com/Isaachbt/Task-Manager-API
+
+ #
 
 <div align="center">
 
@@ -61,17 +45,6 @@
   </a>
 
 </div>
-
-
-<h3 align="center"> 🖥️ Featured projects </h3>
-
-#
-
-<h2>[Minhas finanças]</h2> 📱 Application aimed at helping users organize accounts in one place, offline and online mode
-
-* Java Android nativo
-  
-* Firebase(NoSQL) and MySqlLite(offline)
 
 
           
