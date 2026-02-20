@@ -15,7 +15,7 @@ I am a **Java Backend Developer** focused on **Spring Boot**, **REST APIs**, **w
 ## 🚀 Tecnologias
 
 **Backend:** Java | Spring Boot | JPA | Hibernate  
-**Database:** MySQL | PostgreSQL | Firebase
+**Database:** MySQL | PostgreSQL | Firebase  
 **Tools:** Git | GitHub | Docker | IntelliJ  
 **Concepts:** REST API | SOLID | Design Patterns
 
