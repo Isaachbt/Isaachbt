@@ -23,8 +23,8 @@ I am a **Java Backend Developer** focused on **Spring Boot**, **REST APIs**, **w
 
 ## 📂 Featured projects
 
-### https://github.com/Isaachbt/Gerenciar-biblioteca-spring
-Library management API with full features.     
+### https://github.com/Isaachbt/API-Gerenciamento-user
+API de gerenciamento de usuarios completa     
 **Technologies:** Java, Spring Boot, JPA, MySQL
 
 ### https://github.com/Isaachbt/Task-Manager-API
@@ -34,6 +34,9 @@ Task API with CRUD and filters by date/status.
 ### https://github.com/Isaachbt/Anotacoes-oficial
 Notes app created by me for personal organization.  
 **Technologies:** Java, Android
+
+## Self checkout
+system to automate automatic purchases in a physical store.
 
 ### (Em breve na play store)
 An app designed to manage expenses and income.
